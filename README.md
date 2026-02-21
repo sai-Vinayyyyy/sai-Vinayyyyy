@@ -1,5 +1,7 @@
 # 💫 About Me:
-I am currently working on data analytics, machine learning<br>I am looking to collaborate on data related roles<br>i am looking for help with gen AI concepts<br>i am currently learning Gen ai<br>Data is growing faster than our ability to analyze it
+🔹 Currently exploring Generative AI, including LLMs, embeddings, and retrieval-based systems<br>
+🔹 Interested in collaborating on data-driven and AI-focused roles<br>
+🔹 Passionate about solving real-world problems using scalable ML solutions<br>
 
 
 ## 🌐 Socials:
